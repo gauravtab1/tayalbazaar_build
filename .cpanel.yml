@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/websolutionshub/public_html/demo.websolutionshub.in/ecommerce/react-node/user
+    - /bin/cp -R * $DEPLOYPATH
