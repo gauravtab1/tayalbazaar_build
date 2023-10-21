@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfrontend=self.webpackChunkfrontend||[]).push([[372],{372:function(n,e,s){s.r(e),s.d(e,{default:function(){return r}});s(8391);var t=s(3712),r=function(){return(0,t.jsxs)("div",{class:"loader-container",children:[(0,t.jsx)("div",{class:"loader"}),(0,t.jsx)("p",{class:"loading-text",children:"Good things take time..."})]})}}}]);
