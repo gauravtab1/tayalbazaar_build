@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecommerce/react-node/user/static/css/main.f3abe9a7.css",
-    "main.js": "/ecommerce/react-node/user/static/js/main.b1511329.js",
+    "main.js": "/ecommerce/react-node/user/static/js/main.2549be19.js",
     "myload.css": "/ecommerce/react-node/user/static/css/myload.d17dca17.chunk.css",
     "myload.js": "/ecommerce/react-node/user/static/js/myload.7d3ef1c0.chunk.js",
     "etc.css": "/ecommerce/react-node/user/static/css/etc.4cd92332.chunk.css",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.f3abe9a7.css",
-    "static/js/main.b1511329.js"
+    "static/js/main.2549be19.js"
   ]
 }
